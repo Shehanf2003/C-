@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab01\Lab01-Q4\bin\Debug\Lab01-Q4.exe.config
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab01\Lab01-Q4\bin\Debug\Lab01-Q4.exe
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab01\Lab01-Q4\bin\Debug\Lab01-Q4.pdb
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab01\Lab01-Q4\obj\Debug\Lab01-Q4.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab01\Lab01-Q4\obj\Debug\Lab01-Q4.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab01\Lab01-Q4\obj\Debug\Lab01-Q4.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab01\Lab01-Q4\obj\Debug\Lab01-Q4.exe
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab01\Lab01-Q4\obj\Debug\Lab01-Q4.pdb
