@@ -1,0 +1,7 @@
+C:\Users\MSii\source\repos\SimpleBankAccount\SimpleBankAccount\bin\Debug\SimpleBankAccount.exe.config
+C:\Users\MSii\source\repos\SimpleBankAccount\SimpleBankAccount\bin\Debug\SimpleBankAccount.exe
+C:\Users\MSii\source\repos\SimpleBankAccount\SimpleBankAccount\bin\Debug\SimpleBankAccount.pdb
+C:\Users\MSii\source\repos\SimpleBankAccount\SimpleBankAccount\obj\Debug\SimpleBankAccount.csproj.AssemblyReference.cache
+C:\Users\MSii\source\repos\SimpleBankAccount\SimpleBankAccount\obj\Debug\SimpleBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\MSii\source\repos\SimpleBankAccount\SimpleBankAccount\obj\Debug\SimpleBankAccount.exe
+C:\Users\MSii\source\repos\SimpleBankAccount\SimpleBankAccount\obj\Debug\SimpleBankAccount.pdb

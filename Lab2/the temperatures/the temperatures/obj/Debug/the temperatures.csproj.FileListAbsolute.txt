@@ -1,0 +1,7 @@
+C:\Users\MSii\source\repos\the temperatures\the temperatures\bin\Debug\the temperatures.exe.config
+C:\Users\MSii\source\repos\the temperatures\the temperatures\bin\Debug\the temperatures.exe
+C:\Users\MSii\source\repos\the temperatures\the temperatures\bin\Debug\the temperatures.pdb
+C:\Users\MSii\source\repos\the temperatures\the temperatures\obj\Debug\the temperatures.csproj.AssemblyReference.cache
+C:\Users\MSii\source\repos\the temperatures\the temperatures\obj\Debug\the temperatures.csproj.CoreCompileInputs.cache
+C:\Users\MSii\source\repos\the temperatures\the temperatures\obj\Debug\the temperatures.exe
+C:\Users\MSii\source\repos\the temperatures\the temperatures\obj\Debug\the temperatures.pdb

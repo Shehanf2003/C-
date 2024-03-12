@@ -1,0 +1,7 @@
+C:\Users\MSii\source\repos\Information\Information\bin\Debug\Information.exe.config
+C:\Users\MSii\source\repos\Information\Information\bin\Debug\Information.exe
+C:\Users\MSii\source\repos\Information\Information\bin\Debug\Information.pdb
+C:\Users\MSii\source\repos\Information\Information\obj\Debug\Information.csproj.AssemblyReference.cache
+C:\Users\MSii\source\repos\Information\Information\obj\Debug\Information.csproj.CoreCompileInputs.cache
+C:\Users\MSii\source\repos\Information\Information\obj\Debug\Information.exe
+C:\Users\MSii\source\repos\Information\Information\obj\Debug\Information.pdb
