@@ -1,0 +1,11 @@
+C:\Users\MSii\source\repos\signup\signup\bin\Debug\signup.exe.config
+C:\Users\MSii\source\repos\signup\signup\bin\Debug\signup.exe
+C:\Users\MSii\source\repos\signup\signup\bin\Debug\signup.pdb
+C:\Users\MSii\source\repos\signup\signup\obj\Debug\signup.csproj.AssemblyReference.cache
+C:\Users\MSii\source\repos\signup\signup\obj\Debug\signup.Form1.resources
+C:\Users\MSii\source\repos\signup\signup\obj\Debug\signup.Properties.Resources.resources
+C:\Users\MSii\source\repos\signup\signup\obj\Debug\signup.csproj.GenerateResource.cache
+C:\Users\MSii\source\repos\signup\signup\obj\Debug\signup.csproj.CoreCompileInputs.cache
+C:\Users\MSii\source\repos\signup\signup\obj\Debug\signup.exe
+C:\Users\MSii\source\repos\signup\signup\obj\Debug\signup.pdb
+C:\Users\MSii\source\repos\signup\signup\obj\Debug\signup.Form2.resources
